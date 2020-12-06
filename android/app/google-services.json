@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761809437459",
+    "firebase_url": "https://searchforsavings-b47fe.firebaseio.com",
+    "project_id": "searchforsavings-b47fe",
+    "storage_bucket": "searchforsavings-b47fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761809437459:android:253629a61718b40b4190e6",
+        "android_client_info": {
+          "package_name": "com.bigdogs.sfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761809437459-fbkaoc0pgf7ta9lshvmc7b7pmi3rg6db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigdogs.sfs",
+            "certificate_hash": "c9635716d2196650168548fa72151491193f7077"
+          }
+        },
+        {
+          "client_id": "761809437459-jcrbh8atb4e6dffo2ho1r210oiiqi2i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjmAJqjkbs_miOvVdfCLju_QoYdz1n6Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761809437459-jcrbh8atb4e6dffo2ho1r210oiiqi2i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
